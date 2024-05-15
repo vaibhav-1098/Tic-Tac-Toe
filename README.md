@@ -1,8 +1,11 @@
+#Tic-Tac-Toe
+https://tic-tac-toe-rana.netlify.app/
+
 <!-- win Logic  -->
 for (let pattern  of winpatterns){
     const [a,b,c]=pattern;
     
-    conditions 
+    // conditions 
 }
 
 <!-- game ended logic -->
